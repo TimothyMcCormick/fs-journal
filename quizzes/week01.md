@@ -15,7 +15,7 @@ make a new folder/directory
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-web page document
+This is the tag that contains all of your html elements.
 ```
 
 **4.** What does `HTML` stand for?
@@ -38,19 +38,19 @@ cascading style sheet
 ```
 <!-- enter you answer in the space below -->
 ```
-
+Selector, Property, and value
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+font-weight
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+In the body tag
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
