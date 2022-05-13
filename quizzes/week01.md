@@ -56,17 +56,19 @@ In the body tag
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+ul-unordered list
+ol-ordered list
+dl-description list
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+gives you the ability to align and distribute space with items in a container
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+Padding, Border, Margin
 ```
