@@ -3,7 +3,10 @@
 **1.** What are the Pillars of Object Oriented Programming (`OOP`)?
 <!-- enter you answer in the space below -->
 ```
-
+Abstraction
+Encapsulation
+Inheritance
+Polymorphism
 ```
 **2.** How would you access the `name` of the below object using the `property` variable?
 ```js
