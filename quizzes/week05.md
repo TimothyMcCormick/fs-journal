@@ -39,12 +39,12 @@ let Schema = mongoose.Schema;
 **7.** What is middleware?
 <!-- enter you answer in the space below -->
 ```
-
+Middleware is essentially the bouncer before getting into 'the castle' to make sure you have the approval or credentials to be there accessing information. It is the software that acts as a bridge between a database and applications on a network.
 ```
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 <!-- enter you answer in the space below -->
 ```
-
+The request pipeline delivers and the respond pipeline returns.
 ```
 **9.** 
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
