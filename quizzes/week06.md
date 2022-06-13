@@ -3,27 +3,27 @@
 **1.** What is the entrypoint of an application?
 <!-- enter you answer in the space below -->
 ```
-
+The app.vue file
 ```
 **2.** What is the difference between a vue `component` and `page`?
 <!-- enter you answer in the space below -->
 ```
-
+Pages would be the different 'views' of your app. Such as a Home page or an About page and components are different parts of your app like chat window or a news feed.
 ```
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
 <!-- enter you answer in the space below -->
 ```
-
+v-for
 ```
 **4.** What are the three tags that make up a Vue component?
 <!-- enter you answer in the space below -->
 ```
-
+template, script and style
 ```
 **5.** What does the `L` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Liskov Substitution Principle. Meaning every subclass should be substitutable for their parent class.
 ```
 **6.** Which component in Vue does the vue-router use to mount pages onto?
 <!-- enter you answer in the space below -->
