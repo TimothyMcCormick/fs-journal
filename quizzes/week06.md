@@ -33,17 +33,17 @@ The loadPage component in the router.js
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
 ```
-
+state is copy of the AppState
 ```
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
 ```
-
+To create functions to utilize our crud methods communicating with an api.
 ```
 **10.** Which file contains the root element of your Vue project?
 <!-- enter you answer in the space below -->
 ```
-
+App.vue
 ```
 **11.** The ______ tag is used to alter the styling of your entire Vue project.  Adding the ______ attribute to this tag will limit it to just the component it exists.  Fill in the blank.
 <!-- enter you answer in the space below -->
@@ -53,5 +53,5 @@ style, scoped
 **12.** What is the Vue method used to create watchable objects such as `state` or `AppState`?
 <!-- enter you answer in the space below -->
 ```
-
+watchEffect
 ```
