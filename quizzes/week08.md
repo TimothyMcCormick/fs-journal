@@ -3,12 +3,12 @@
 **1.** What is the package.json file used for?
 <!-- enter you answer in the space below -->
 ```
-
+It handles the projects dependencies and it can also contain other data such as a project description, the version of the project in a particular distribution, license information, even configuration data.
 ``` 
 **2.** At what level of your project do you need package.json when deploying your application? Why?
 <!-- enter you answer in the space below -->
 ```
-
+At the root directory. It has to be at the root or base level so that the packages install fully over the entire project.
 ```
 **3.** What command will ensure that your Vue code is compiled properly for deployment?
 <!-- enter you answer in the space below -->
